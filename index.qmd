@@ -1,7 +1,27 @@
 ---
-title: "kloo49.github.io"
+title: "Kelly Loo"
+image: images/profile.jpg
+toc: false
+about:
+    template: broadside
+    links: 
+    - text: LinkedIn
+      icon: linkedin
+      href: https://www.linkedin.com/in/yqkellyloo/
+      target: _blank
+    - text: GitHub
+      icon: github
+      href: https://github.com/kloo49
+      target: _blank
+    - text: Email
+      icon: mailbox-flag
+      href: mailto:kloo@ucsb.edu
+format:
+    html:
+        css: styles.css
 ---
 
-This is a Quarto website.
+Kelly Loo is a current master's student in Environmental Data Science at the Bren School of Environmental Science and Management at University of California, Santa Barbara. Her interests lie in natural disasters and hazards. Outside of school, Kelly enjoys crocheting, playing frisbee, or reading.
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+### Education
+B.S. Geoscience | University of California, San Diego
