@@ -2,15 +2,85 @@
   {
     "objectID": "about.html",
     "href": "about.html",
-    "title": "About",
+    "title": "About Me",
     "section": "",
-    "text": "About this site"
+    "text": "Hi! My name is Kelly Loo, and I am currently a master’s student in Environmental Data Science at Bren."
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Kelly Loo",
     "section": "",
-    "text": "Kelly Loo is a current master’s student in Environmental Data Science at the Bren School of Environmental Science and Management at University of California, Santa Barbara. Her interests lie in natural disasters and hazards. Outside of school, Kelly enjoys crocheting, playing frisbee, or reading.\n\nEducation\nB.S. Geoscience | University of California, San Diego"
+    "text": "Welcome to my page!\nCome take a look at my background, professional life, and personal life. Toggle between the tabs on the top bar, and switch between light/dark mode to better suit your settings.\nI’m a current master’s student in Environmental Data Science at the Bren School of Environmental Science and Management at University of California, Santa Barbara. My interests lie in natural disasters and hazards."
+  },
+  {
+    "objectID": "interests.html",
+    "href": "interests.html",
+    "title": "Some things I love <3",
+    "section": "",
+    "text": "Reading has been a long standing hobby of mine, and it’s something I try to do as often as I can because life can get in the way  I’ve made a list of some books I’ve really enjoyed reading, please take some inspiration to find your next read!\nCurrently reading: The City and Its Uncertain Walls by Haruki Murakami\nReads I’ve enjoyed:\n\n\n\n\n\n\n\n\n\nTitle\nAuthor\nStar Rating\nOne-line review\n\n\n\n\nProject Hail Mary\nAndy Weir\n\nThis book scratches a good itch in my science brain.\n\n\nCrying in H Mart\nMichelle Zauner\n\nFood is for sure a love language!!\n\n\n1984\nGeorge Orwell\n\nWinston’s character development was seamless, beautifully done by Big Brother.\n\n\nGirl, Woman, Other\nBernadine Evaristo\n\nIt was an out of body experience.\n\n\nCirce\nMadeline Miller\n\nMadeline Miller eats again.\n\n\nYellowface\nR.F. Kuang\n\nDoes June like anyone besides herself?\n\n\nThe Beekeeper of Aleppo\nChristy Lefteri\n\nWe learn that the characters from Aleppo have different coping mechanisms, and we can see them develop more throughout the book.\n\n\nSeven Husbands of Evelyn Hugo\nTaylor Jenkin Reid\n\nEvery detail, character, plot progression was so well planned out, anything less than a 5 star review is undeserving.\n\n\nSong of Achilles\nMadeline Miller\n\nMiller did a good job at making the ending sad despite already giving us a preview on how the story ends in the middle of the story."
+  },
+  {
+    "objectID": "interests.html#reading",
+    "href": "interests.html#reading",
+    "title": "Some things I love",
+    "section": "",
+    "text": "Currently reading: The City and Its Uncertain Walls by Haruki Murakami\nRecent reads:\n\n\n\n\n\n\n\n\n\nTitle\nAuthor\nStar Rating\nOne-line review\n\n\n\n\nProject Hail Mary\nAndy Weir\n\nThis book scratches a good itch in my science brain.\n\n\nCrying in H Mart\nMichelle Zauner\n\nFood is for sure a love language!!\n\n\nThe Deal\nElle Kennedy\n\nJust like the show, the story had a weak start but a stronger finish.\n\n\nThe Deal\nElle Kennedy\n\nJust like the show, the story had a weak start but a stronger finish."
+  },
+  {
+    "objectID": "interests.html#making-sourdough",
+    "href": "interests.html#making-sourdough",
+    "title": "Some things I love <3",
+    "section": "Making sourdough",
+    "text": "Making sourdough"
+  },
+  {
+    "objectID": "interests.html#crocheting",
+    "href": "interests.html#crocheting",
+    "title": "Some things I love <3",
+    "section": "Crocheting",
+    "text": "Crocheting"
+  },
+  {
+    "objectID": "interests.html#playing-ultimate-frisbee",
+    "href": "interests.html#playing-ultimate-frisbee",
+    "title": "Some things I love <3",
+    "section": "Playing Ultimate Frisbee",
+    "text": "Playing Ultimate Frisbee\nI was introduced to Ultimate in high school, where one of my coaches suggested I play in college. I took his advice, and being on the UCSD B-Co gave me the best four years I could’ve asked for!\nI was honored to be captain for the last two years on the team, enhancing my communication skills between the school, my team, and coaches.\n\n\n\n\n\n\nTournament at SDSU\n\n\n\n\n\n\n\nLeiOut Annual Beach Tournament\n\n\n\n\n\n\n\n\n\nMy wonderful B-Co and C-Co!"
+  },
+  {
+    "objectID": "interests.html#books",
+    "href": "interests.html#books",
+    "title": "Some things I love <3",
+    "section": "",
+    "text": "Reading has been a long standing hobby of mine, and it’s something I try to do as often as I can because life can get in the way  I’ve made a list of some books I’ve really enjoyed reading, please take some inspiration to find your next read!\nCurrently reading: The City and Its Uncertain Walls by Haruki Murakami\nReads I’ve enjoyed:\n\n\n\n\n\n\n\n\n\nTitle\nAuthor\nStar Rating\nOne-line review\n\n\n\n\nProject Hail Mary\nAndy Weir\n\nThis book scratches a good itch in my science brain.\n\n\nCrying in H Mart\nMichelle Zauner\n\nFood is for sure a love language!!\n\n\n1984\nGeorge Orwell\n\nWinston’s character development was seamless, beautifully done by Big Brother.\n\n\nGirl, Woman, Other\nBernadine Evaristo\n\nIt was an out of body experience.\n\n\nCirce\nMadeline Miller\n\nMadeline Miller eats again.\n\n\nYellowface\nR.F. Kuang\n\nDoes June like anyone besides herself?\n\n\nThe Beekeeper of Aleppo\nChristy Lefteri\n\nWe learn that the characters from Aleppo have different coping mechanisms, and we can see them develop more throughout the book.\n\n\nSeven Husbands of Evelyn Hugo\nTaylor Jenkin Reid\n\nEvery detail, character, plot progression was so well planned out, anything less than a 5 star review is undeserving.\n\n\nSong of Achilles\nMadeline Miller\n\nMiller did a good job at making the ending sad despite already giving us a preview on how the story ends in the middle of the story."
+  },
+  {
+    "objectID": "about.html#professional-experience",
+    "href": "about.html#professional-experience",
+    "title": "About Me",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nLab Assistant at Haase Lab, Scripps Institution of Oceanography\nI worked in Haase Lab, where I did data archiving, processing, and management. Our lab deploys airborne radio occultation receivers on Hurricane Hunter flights, creating atmospheric profiles of hurricanes and atmospheric rivers.\nI performed data visualization and quality control in Python, plotting the refractivity from atmospheric profiles per flight (or campaign) in a height vs refractivity plot. I also used Bash for file organization, which was helpful due to the large database in the lab, as well as sharing databases with other agencies.\nOpportunities\nDuring my time at the lab, I had the priviledge to attend two conferences, and take a ride on one of the Hurricane Hunter flights!\n\n\n\n\n\n\nPoster for AMS Tropical\n\n\n\n\n\nPoster presentation at CW3E Annual Meeting\n\n\n\n\n\n\n\nKelly on the NOAA Gulfstream-IV for an AR Recon flight\n\n\n\n\n\n\n\nLifestyle Editor at The UCSD Guardian\nThe UC San Diego Guardian is a student-led newspaper that are written by students, for students. I started as a writer for the Lifestyle section before becoming an editor my senior year. During my time with The UCSD Guardian, I developed skills in team collaboration, file organization, and producing articles on a tight deadline.\nWhere to find Kelly’s works!"
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About Me",
+    "section": "Education",
+    "text": "Education\nI attended the University of California, San Diego for my undergraduate studies. I knew that I wanted to be studying subjects related to the environment, and that I enjoyed physical science. That’s how I ended up being a geoscientist! After taking Introduction to Geochemistry my second year, I was intrigued in the various elements dispersed around the planet. I got involved in a paleoclimatology lab, using chemistry to analyse the history of loess samples. However, when I entered my last year at UCSD, I dove into the geophysical world, and seismology captured my interest to round out my undergraduate career."
+  },
+  {
+    "objectID": "about.html#experience",
+    "href": "about.html#experience",
+    "title": "About Me",
+    "section": "Experience",
+    "text": "Experience\n\nLab Assistant at Haase Lab, Scripps Institution of Oceanography\nI worked in Haase Lab, where I did data archiving, processing, and management. Our lab deploys airborne radio occultation receivers on Hurricane Hunter flights, creating atmospheric profiles of hurricanes and atmospheric rivers.\nI performed data visualization and quality control in Python, plotting the refractivity from atmospheric profiles per flight (or campaign) in a height vs refractivity plot. I also used Bash for file organization, which was helpful due to the large database in the lab, as well as sharing databases with other agencies.\nOpportunities\nDuring my time at the lab, I had the priviledge to attend two conferences, and take a ride on one of the Hurricane Hunter flights!\n\n\n\n\n\n\nPoster for AMS Tropical\n\n\n\n\n\nPoster presentation at CW3E Annual Meeting\n\n\n\n\n\n\n\nKelly on the NOAA Gulfstream-IV for an AR Recon flight\n\n\n\n\n\n\n\nLifestyle Editor at The UCSD Guardian\nThe UC San Diego Guardian is a student-led newspaper that are written by students, for students. I started as a writer for the Lifestyle section before becoming an editor my senior year. During my time with The UCSD Guardian, I developed skills in team collaboration, file organization, and producing articles on a tight deadline.\nWhere to find Kelly’s works!"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Kelly Loo",
+    "section": "Education",
+    "text": "Education\nB.S. in Geoscience (Honors) - University of California, San Diego\n- Honors thesis: Determining Indiana Loess Geographic Source Origin with Nd-Sr isotopic composition"
   }
 ]

@@ -16,12 +16,14 @@ about:
     - text: Email
       icon: mailbox-flag
       href: mailto:kloo@ucsb.edu
-format:
-    html:
-        css: styles.css
 ---
 
-Kelly Loo is a current master's student in Environmental Data Science at the Bren School of Environmental Science and Management at University of California, Santa Barbara. Her interests lie in natural disasters and hazards. Outside of school, Kelly enjoys crocheting, playing frisbee, or reading.
+Welcome to my page!
 
-### Education
-B.S. Geoscience | University of California, San Diego
+Come take a look at my background, professional life, and personal life. Toggle between the tabs on the top bar, and switch between light/dark mode to better suit your settings.
+
+I'm a current master's student in Environmental Data Science at the Bren School of Environmental Science and Management at University of California, Santa Barbara. My interests lie in natural disasters and hazards. 
+
+## Education
+B.S. in Geoscience (Honors) - University of California, San Diego  
+    - *Honors thesis: Determining Indiana Loess Geographic Source Origin with Nd-Sr isotopic composition*
