@@ -23,7 +23,3 @@ Welcome to my page!
 Come take a look at my background, professional life, and personal life. Toggle between the tabs on the top bar, and switch between light/dark mode to better suit your settings.
 
 I'm a current master's student in Environmental Data Science at the Bren School of Environmental Science and Management at University of California, Santa Barbara. My interests lie in natural disasters and hazards. 
-
-## Education
-B.S. in Geoscience (Honors) - University of California, San Diego  
-    - *Honors thesis: Determining Indiana Loess Geographic Source Origin with Nd-Sr isotopic composition*

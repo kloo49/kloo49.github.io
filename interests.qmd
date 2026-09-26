@@ -24,8 +24,15 @@ __Reads I've enjoyed:__
 : {.striped .hover}{tbl-colwidths="[20,15,20,40]"}
 
 ## Making sourdough
+I've had my starter Stewie Jr., a descendant of my friend's starter Stewie, since 2025. Since then, I've been making bread for myself, friends, and family! I truly cannot remember the last time I bought a loaf of bread from the store.
+
+Currently, I've just been making bread. Stay tuned for my pizza journey!
+
+![One of the best loaves I've baked](images/IMG_6332.jpg){fig-align='left' width=600px}
 
 ## Crocheting
+
+## Photography
 
 ## Playing Ultimate Frisbee
 I was introduced to Ultimate in high school, where one of my coaches suggested I play in college. I took his advice, and being on the UCSD B-Co gave me the best four years I could've asked for!
