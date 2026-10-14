@@ -13,13 +13,14 @@ website:
         text: Resources
       - href: interests.qmd
         text: Interests
+  page-footer:
+    background: light
+    left: Copyright 2026, Kelly Loo
 
 format:
   html:
-    theme: 
-      light: sandstone
-      dark: solar
-    css: styles.css
+    theme: styles.scss
+    mainfont: Quantico
     toc: true
     page-layout: full
 

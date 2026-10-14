@@ -7,7 +7,7 @@ filters:
 Hi! My name is Kelly Loo, and I am currently a master's student in Environmental Data Science at Bren.
 
 ## Experience
-#### __Lab Assistant at Haase Lab, Scripps Institution of Oceanography__
+#### **Lab Assistant at Haase Lab, Scripps Institution of Oceanography**
 
 I worked in Haase Lab, where I did data archiving, processing, and management. Our lab deploys airborne radio occultation receivers on Hurricane Hunter flights, creating atmospheric profiles of hurricanes and atmospheric rivers.
 
@@ -34,7 +34,11 @@ The UC San Diego Guardian is a student-led newspaper that are written by student
 [Click here to find Kelly's works!](https://ucsdguardian.org/staff_name/kelly-loo/)
 
 ## Education
-B.S. in Geoscience (Honors) - University of California, San Diego  
-    - *Honors thesis: Determining Indiana Loess Geographic Source Origin with Nd-Sr isotopic composition*
+#### **M.S. in Environmental Data Science - University of California, Santa Barbara**
+
+I am currently at the Bren School of Environmental Science and Management. I hope to develop skills in data visualization, remote sensing and mapping, and machine learning.
+
+#### **B.S. in Geoscience (Honors) - University of California, San Diego**
+*Honors thesis: Determining Indiana Loess Geographic Source Origin with Nd-Sr isotopic composition*
 
 I attended the University of California, San Diego for my undergraduate studies. I knew that I wanted to be studying subjects related to the environment, and that I enjoyed physical science. That's how I ended up being a geoscientist! After taking Introduction to Geochemistry my second year, I was intrigued in the various elements dispersed around the planet. I got involved in a paleoclimatology lab, using chemistry to analyse the history of loess samples. However, when I entered my last year at UCSD, I dove into the geophysical world, and seismology captured my interest to round out my undergraduate career.
