@@ -1,0 +1,28 @@
+/*-- scss:defaults --*/
+@import url('https://fonts.googleapis.com/css2?family=Quantico:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+// Colors
+$lemonade: #FBD271;
+$sea-blue: #0F4E77;
+$matcha: #89A377;
+$honey-drizzle: #E7BD88;
+$coffee-grounds: #372516;
+$cream: #e3c29b;
+
+// Base document colors
+$navbar-bg: $lemonade; // navbar
+$navbar-fg: $sea-blue; // navbar foreground elements
+$navbar-hl: $matcha; // highlight color when hovering over navbar links
+$body-bg: $honey-drizzle; // page background 
+$body-color: $coffee-grounds; // page text 
+$footer-bg: $cream; // footer 
+$link-color: $sea-blue; // hyperlinks 
+
+// Inline code
+$code-bg: $cream; // inline code background color
+$code-color: $matcha; // inline code text color
+
+/*-- scss:rules --*/
+h4 {
+    color: $sea-blue;
+}
